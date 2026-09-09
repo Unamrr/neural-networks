@@ -1,0 +1,10 @@
+E:\нейросети\MO31_Gnanga_app1-master\bin\Debug\MO31_Gnanga_app1.exe.config
+E:\нейросети\MO31_Gnanga_app1-master\bin\Debug\MO31_Gnanga_app1.exe
+E:\нейросети\MO31_Gnanga_app1-master\bin\Debug\MO31_Gnanga_app1.pdb
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.csproj.AssemblyReference.cache
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.Form1.resources
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.Properties.Resources.resources
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.csproj.GenerateResource.cache
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.csproj.CoreCompileInputs.cache
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.exe
+E:\нейросети\MO31_Gnanga_app1-master\obj\Debug\MO31_Gnanga_app1.pdb
