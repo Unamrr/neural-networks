@@ -4,19 +4,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MO31_Gnanga_app1
+namespace MO31_Puhlikova_Mrrr
 {
     internal static class Program
     {
-        /// <summary>
-        /// Point d'entrée principal de l'application.
-        /// </summary>
+        
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormMain());
         }
     }
 }

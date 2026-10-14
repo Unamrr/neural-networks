@@ -1,0 +1,11 @@
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.csproj.AssemblyReference.cache
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.csproj.GenerateResource.cache
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.csproj.CoreCompileInputs.cache
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.FormMain.resources
+E:\нейросети\MO31_Puhlikova_Mrrr\bin\Debug\MO31_Puhlikova_Mrrr.exe.config
+E:\нейросети\MO31_Puhlikova_Mrrr\bin\Debug\MO31_Puhlikova_Mrrr.exe
+E:\нейросети\MO31_Puhlikova_Mrrr\bin\Debug\MO31_Puhlikova_Mrrr.pdb
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.Properties.Resources.resources
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.exe
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.pdb
+E:\нейросети\MO31_Puhlikova_Mrrr\obj\Debug\MO31_Puhlikova_Mrrr.exe.config
