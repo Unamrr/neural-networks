@@ -1,4 +1,4 @@
-﻿
+
 
 namespace MO31_Puhlikova_Mrrr.NeuroNet
 {
