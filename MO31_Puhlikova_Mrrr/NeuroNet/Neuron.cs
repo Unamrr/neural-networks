@@ -1,4 +1,4 @@
-﻿using static System.Math;
+using static System.Math;
 
 
 namespace MO31_Puhlikova_Mrrr.NeuroNet
